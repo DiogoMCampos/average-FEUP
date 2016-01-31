@@ -9,7 +9,7 @@ This is a simple Python script that calculates your grades average, given your s
 
 ## Installation
 
-If you have easy EasyInstall, run the following command to install RoboBrowser, BeautifulSoup and Requests:
+If you have EasyInstall, run the following command to install RoboBrowser, BeautifulSoup and Requests:
 ```
 easy_install RoboBrowser
 ```
