@@ -67,6 +67,6 @@ def calculateAverage():
 
     average = gradesSum / creditsSum
 
-    print('A média é:', average, end='')
+    print('A média é:', average)
 
 calculateAverage()
